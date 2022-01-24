@@ -1,0 +1,3 @@
+[submodule "generators/src/templates"]
+	path = generators/src/templates
+	url = https://github.com/emquiroga/gulp-sass-js-boilerplate
