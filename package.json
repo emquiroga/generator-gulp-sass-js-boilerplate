@@ -1,0 +1,22 @@
+{
+  "name": "generator-gulp-sass-js-boilerplate",
+  "version": "1.0.0",
+  "description": "Generates a scaffolding for better workflow in Front-End Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emquiroga/generator-gulp-sass-js-boilerplate.git"
+  },
+  "author": "Emiliano Quiroga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emquiroga/generator-gulp-sass-js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/emquiroga/generator-gulp-sass-js-boilerplate#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.6.1"
+  }
+}
