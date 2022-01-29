@@ -1,6 +1,6 @@
 {
   "name": "generator-gulp-sass-js-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a scaffolding for better workflow in Front-End Development",
   "main": "index.js",
   "scripts": {
